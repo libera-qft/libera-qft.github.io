@@ -1,0 +1,6 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'QFT Reading Group'
+theme = "anubis"
+paginate = 10
+
