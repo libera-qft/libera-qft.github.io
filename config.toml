@@ -4,3 +4,5 @@ title = 'QFT Reading Group'
 theme = "anubis"
 paginate = 10
 
+[params]
+style = "auto"
