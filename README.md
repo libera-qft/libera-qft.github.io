@@ -11,3 +11,8 @@ development more convenient. `make serve` will build the website locally
 (including draft pages and those dated in the future) and serve it on
 [`http://localhost:4848`](http://localhost:4848). `make pubserve` will do the
 same thing, but won't build draft and future pages.
+
+## Site development
+
+To keep the git history of the main site clean, site development is done on the
+`develop` branch which is periodically rebased and merged into `default`.
