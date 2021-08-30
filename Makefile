@@ -4,7 +4,7 @@
 PORT=4848
 
 serve:
-	hugo server --verbose --buildDrafts --buildFuture --watch --disableFastRender \
+	hugo server --verbose --minify --buildDrafts --buildFuture --watch --disableFastRender \
 -p$(PORT)
 
 pubserve:
