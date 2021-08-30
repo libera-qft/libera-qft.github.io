@@ -1,7 +1,6 @@
 ---
 title: ""
 date: 2021-08-29T20:15:43+01:00
-draft: true
 ---
 
 Welcome to the Quantum Field theory (QFT) reading group on
