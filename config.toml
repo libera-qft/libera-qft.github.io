@@ -6,3 +6,4 @@ paginate = 10
 
 [params]
 style = "auto"
+social = [ { id = "github", name = "libera-qft" }  ]
