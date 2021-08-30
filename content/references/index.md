@@ -10,10 +10,10 @@ a copy of one, [drop by one of the chat rooms]({{< relref
 
 ## Books
 
-+ [Quantum Field Theory: A Tourist Guide for Mathematicians - Folland](https://bookstore.ams.org/surv-149)
++ [Quantum Field Theory: A Tourist Guide for Mathematicians --- Folland](https://bookstore.ams.org/surv-149)
 
 ## Lecture Notes
 
-+ [Quantum Field Theory -
++ [Quantum Field Theory ---
   Tong](https://www.damtp.cam.ac.uk/user/tong/qft/qft.pdf) (Cambridge Part III
   notes)
